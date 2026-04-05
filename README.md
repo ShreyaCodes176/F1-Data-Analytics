@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/Exploratory--Data--Analytics-darkgreen)
 ![Python](https://img.shields.io/badge/Visualisation-darkgreen)
 ![Python](https://img.shields.io/badge/Sport--Analytics-darkgreen)
-![Python](https://img.shields.io/badge/Machine--Learnine-darkgreen)
+![Python](https://img.shields.io/badge/Machine--Learning-darkgreen)
 ![Python](https://img.shields.io/badge/Predictive--Modeling-darkgreen)
 
 
